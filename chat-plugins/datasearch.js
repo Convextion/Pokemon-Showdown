@@ -249,7 +249,7 @@ exports.commands = {
 	movesearchhelp: [
 		"/movesearch [parameter], [parameter], [parameter], ... - Searches for moves that fulfill the selected criteria.",
 		"Search categories are: type, category, gen, contest condition, flag, status inflicted, type boosted, and numeric range for base power, pp, and accuracy.",
-		"Types must be followed by ' type', e.g., 'dragon type'.",
+		"Types must be followed by 'type', e.g., 'dragon type'.",
 		"Stat boosts must be preceded with 'boosts ', and stat-lowering moves with 'lowers ', e.g., 'boosts attack' searches for moves that boost the attack stat of either Pok\u00e9mon.",
 		"Z-stat boosts must be preceded with 'zboosts ', e.g., 'zboosts accuracy' searches for all status moves whose Z-Effects boost the user's accuracy.",
 		"Moves that have a Z-Effect of fully restoring the user's health can be searched for with 'zrecovery'.",
